@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hey+there!+%F0%9F%91%8B+I'm+Viet;AI+%26+Machine+Learning+Engineer;from+Ha+Noi%2C+Vietnam+%F0%9F%87%BB%F0%9F%87%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&random=false&width=700&height=60&lines=Hey+there!+%F0%9F%91%8B+I'm+Viet;AI+%26+Machine+Learning+Engineer;from+Ha+Noi%2C+Vietnam+%F0%9F%87%BB%F0%9F%87%B3)](https://git.io/typing-svg)
 
 <br/>
 
@@ -75,10 +75,6 @@
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<br/><br/>
-
-*✨ "The best way to predict the future is to create it." ✨*
 
 <br/>
 
