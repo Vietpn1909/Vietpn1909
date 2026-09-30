@@ -10,16 +10,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🤖 AI & Machine Learning Engineer từ **Hà Nội, Việt Nam**
-- 🎯 Đam mê **Computer Vision**, **NLP** và **Generative AI**
-- 📱 Có kinh nghiệm phát triển mobile app với **Flutter**
-- 🌱 Đang khám phá **LLMs** và các ứng dụng thực tế của AI
-- 💬 Hỏi tôi về **Python, Machine Learning, Deep Learning**
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -53,19 +43,8 @@
 
 <div align="center">
 
-📊 **GitHub Stats**
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vietpn1909&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&hide_title=true" />
-<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vietpn1909&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&hide_title=true" />
-
-</div>
-
----
-
-<div align="center">
-
 *"The best way to predict the future is to create it."*
 
-![](https://komarev.com/ghpvc/?username=Vietpn1909&color=58A6FF&style=flat-square&label=views)
+![Profile Views](https://komarev.com/ghpvc/?username=Vietpn1909&color=58A6FF&style=flat-square&label=profile+views)
 
 </div>
